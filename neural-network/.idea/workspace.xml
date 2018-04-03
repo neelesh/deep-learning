@@ -29,11 +29,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="neuralnetwork_xor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="neuralnetwork_xor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../neural-network/neuralnetwork_xor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neuralnetwork_digits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../neural-network/neuralnetwork_digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -80,6 +92,7 @@
         <option value="$PROJECT_DIR$/../neural-network/nn/__init__.py" />
         <option value="$PROJECT_DIR$/../neural-network/nn/neuralnetwork.py" />
         <option value="$PROJECT_DIR$/../neural-network/neuralnetwork_xor.py" />
+        <option value="$PROJECT_DIR$/../neural-network/neuralnetwork_digits.py" />
       </list>
     </option>
   </component>
@@ -100,16 +113,6 @@
             <path>
               <item name="neural-network" type="b2602c69:ProjectViewProjectNode" />
               <item name="neural-network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neural-network" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neural-network" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neural-network" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neural-network" type="462c0819:PsiDirectoryNode" />
-              <item name="nn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,7 +136,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.neuralnetwork_xor">
+  <component name="RunManager" selected="Python.neuralnetwork_digits">
+    <configuration name="neuralnetwork_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="neuralnetwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../neural-network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../neural-network/neuralnetwork_digits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="neuralnetwork_xor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neuralnetwork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,9 +194,11 @@
     <list>
       <item itemvalue="Python.perceptron_xor" />
       <item itemvalue="Python.neuralnetwork_xor" />
+      <item itemvalue="Python.neuralnetwork_digits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.neuralnetwork_digits" />
         <item itemvalue="Python.neuralnetwork_xor" />
         <item itemvalue="Python.perceptron_xor" />
       </list>
@@ -279,6 +302,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neural-network/neuralnetwork_digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
