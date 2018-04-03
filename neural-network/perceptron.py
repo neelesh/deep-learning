@@ -25,8 +25,6 @@ print("[INFO] testing perceptron...")
 
 # loop over the data points
 for (x, target) in zip(X, y):
-	# make a prediction on the data point and display the result
-	# to our console
 	pred = p.predict(x)
 	print("[INFO] data={}, ground-truth={}, pred={}".format(
 		x, target[0], pred))
